@@ -10,4 +10,4 @@ It has been more than a year since I last worked on this project, and my program
 # APK Download
 Unfortunately, SideBall has been removed from Google Play following my Google Play Console account termination, so until I can figure out what happened, use this link to download the APK.
 
-![Screenshot 1](/Pictures/SideBall1) ![Screenshot 2](/Pictures/SideBall2) ![Screenshot 3](/Pictures/SideBall3)
+![Screenshot 1](https://github.com/SamiBenAmara/SideBall/SideBall1) ![Screenshot 2](https://github.com/SamiBenAmara/SideBall/SideBall2) ![Screenshot 3](https://github.com/SamiBenAmara/SideBall/SideBall3)
